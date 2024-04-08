@@ -14,8 +14,6 @@ bool isPalindrome(long long   num) {
 }
 
 bool isPerfectCube(long long num) {
-    long long h = num & 0xF;
-    if (!(h == 0 || h == 1 || h == 4 || h == 9)) return false;
     long long cubeRoot = cbrt(num);
     return cubeRoot * cubeRoot * cubeRoot == num;
 }
