@@ -1,0 +1,14 @@
+{
+  "typescript": {
+    "quoteStyle": "preferSingle",
+    "jsx.quoteStyle": "preferDouble",
+    "lineWidth": 120,
+    "semiColons": "asi"
+  },
+  "excludes": [
+    "**/node_modules"
+  ],
+  "plugins": [
+    "https://plugins.dprint.dev/typescript-0.88.7.wasm"
+  ]
+}

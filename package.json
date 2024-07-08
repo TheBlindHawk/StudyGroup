@@ -1,0 +1,15 @@
+{
+  "name": "studygroup",
+  "version": "1.0.0",
+  "description": "a folder with codes to fix/improve and challenges to improve skills",
+  "main": "fix_challenge/index.js",
+  "scripts": {
+    "format": "dprint fmt '**/*.{js,ts,tsx,json}'",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "TheBlindHawk",
+  "license": "MIT",
+  "dependencies": {
+    "dprint": "^0.47.1"
+  }
+}
