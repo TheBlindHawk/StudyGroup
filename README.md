@@ -22,3 +22,8 @@ Error Type: Time Limit Exceeded
 
 https://atcoder.jp/contests/arc172/tasks/arc172_c
 
+## Color Beans
+
+Error Type: Wrong Answer
+
+https://atcoder.jp/contests/abc348/tasks/abc348_c
